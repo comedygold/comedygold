@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=ComedyGold
+Comment=ComedyGold P2P Cryptocurrency
+Comment[fr]=ComedyGold, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=ComedyGold, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/pandacoin-qt %u
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/pandacoin128.png
+MimeType=x-scheme-handler/pandacoin;
+Categories=Office;

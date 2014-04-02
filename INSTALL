@@ -1,0 +1,12 @@
+Run ./autogen.sh which should install the dependencies you need. If not, try googling it.
+
+
+Building ComedyGold
+
+See doc/readme-qt.rst for instructions on building ComedyGold-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ComedyGold.
+
+See doc/build-*.txt for instructions on building comedygoldcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of ComedyGold.
